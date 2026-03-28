@@ -73,7 +73,7 @@ Multiple SVM models are trained using different kernels to compare their effecti
 
 The linear kernel creates a straight decision boundary and serves as a baseline model for classification.
 
-📊 **Accuracy: 89%**
+📊 **Accuracy: 91%**
 
 ---
 
@@ -81,15 +81,9 @@ The linear kernel creates a straight decision boundary and serves as a baseline 
 
 The RBF kernel transforms the data into a higher-dimensional space, allowing the model to capture complex patterns and non-linear relationships.
 
-📊 **Accuracy: 92% (Best Performance)**
+📊 **Accuracy: 82%**
 
 ---
-
-### 🔹 Polynomial Kernel SVM
-
-The polynomial kernel models interactions between features and produces a more flexible decision boundary compared to the linear approach.
-
-📊 **Accuracy: 90%**
 
 ---
 
@@ -108,15 +102,15 @@ Model performance is evaluated using standard classification metrics:
 
 | Model            | Accuracy |
 |------------------|----------|
-| Linear SVM       | 89%      |
-| RBF Kernel SVM   | 92%      |
-| Polynomial SVM   | 90%      |
+| Linear SVM       | 91%      |
+| RBF Kernel SVM   | 82%      |
+
 
 ---
 
 ## 🎯 Conclusion
 
-The SVM algorithm performs effectively on this dataset, with the **RBF kernel achieving the highest accuracy**. The results highlight the importance of feature scaling and kernel selection when working with classification problems.
+The SVM algorithm performs effectively on this dataset, with the **Linear kernel achieving the highest accuracy**. The results highlight the importance of feature scaling and kernel selection when working with classification problems.
 
 ---
 
