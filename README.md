@@ -39,24 +39,21 @@ The pairplot provides a comprehensive view of relationships between all features
 ---
 
 ### 🔹 Correlation Heatmap
-<img src="Support vector machine png/Correlation Heatmap.png 
-" width="600"/>
+<img src="Support vector machine png/Correlation Heatmap.png" width="600"/>
 
 The heatmap highlights correlations among features. Strong relationships between certain variables indicate overlapping information, which can influence model behavior.
 
 ---
 
 ### 🔹 Area vs Perimeter (Joint Plot)
-<img src="Support vector machine png/Area vs Perimeter (Joint Plot).png  
-" width="600"/>
+<img src="Support vector machine png/Area vs Perimeter (Joint Plot).png" width="600"/>
 
 The joint plot illustrates the relationship between area and perimeter, showing clustering patterns that reflect differences between raisin types.
 
 ---
 
 ### 🔹 PCA Visualization
-<img src="Support vector machine png/PCA Visualization.png
-" width="600"/>
+<img src="Support vector machine png/PCA Visualization.png" width="600"/>
 
 Principal Component Analysis reduces the dataset into two dimensions, making it easier to visualize class distribution. The projection shows noticeable separation between categories.
 
