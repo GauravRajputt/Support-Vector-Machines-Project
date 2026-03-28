@@ -32,28 +32,28 @@ The dataset contains geometric and shape-based features of raisins.
 ## 🔍 Exploratory Data Analysis (EDA)
 
 ### 🔹 Pairplot
-<img src="visualizations/pairplot.png" width="600"/>
+<img src="Support vector machine png/download.png" width="600"/>
 
 The pairplot provides a comprehensive view of relationships between all features. Several feature combinations show visible separation between classes, indicating that the dataset contains distinguishable patterns.
 
 ---
 
 ### 🔹 Correlation Heatmap
-<img src="visualizations/heatmap.png" width="600"/>
+<img src="Support vector machine png/download (1).png" width="600"/>
 
 The heatmap highlights correlations among features. Strong relationships between certain variables indicate overlapping information, which can influence model behavior.
 
 ---
 
 ### 🔹 Area vs Perimeter (Joint Plot)
-<img src="visualizations/jointplot.png" width="600"/>
+<img src="Support vector machine png/download (2).png" width="600"/>
 
 The joint plot illustrates the relationship between area and perimeter, showing clustering patterns that reflect differences between raisin types.
 
 ---
 
 ### 🔹 PCA Visualization
-<img src="visualizations/pca_plot.png" width="600"/>
+<img src="Support vector machine png/download (3).png" width="600"/>
 
 Principal Component Analysis reduces the dataset into two dimensions, making it easier to visualize class distribution. The projection shows noticeable separation between categories.
 
